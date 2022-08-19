@@ -1,1 +1,2 @@
-# My-To-Do-App
+# My-To Do-App
+This is for my Learning Purpose
