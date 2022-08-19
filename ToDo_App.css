@@ -1,0 +1,29 @@
+.logo{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.buttons{
+    text-align: center;
+}
+body{
+    background: rgb(285, 239, 279);
+}
+.items{
+    background: rgb(235, 229, 229);
+    margin: 10px;
+    font-size: xx-large;
+    list-style: none;
+    margin-left: 50px;
+}
+#Add_task,#Remove_task{
+    padding: 20px;
+    margin: 20px;
+    border: 2px;
+    background: black;
+    color: white;
+    border-radius: 50%;
+}
+#Add_task:hover,#Remove_task:hover{
+    background: rgb(77, 57, 57);
+}
